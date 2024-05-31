@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* color: white; */
+  text-decoration: none;
+  list-style: none;
+}
+body {
+  /* background: url("C:\Users\Ankit kumar\OneDrive\Desktop\Project_1\myproject\project1\src\images\bg.jpg");
+  background-size: cover;
+  background-position: center; */
+}
+
+nav {
+  /* border: 1px solid #000; */
+  background: #20dae7c0;
+  width: 100%;
+  height: 55px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.logo {
+  border: 1px solid #e0dada;
+  padding: 20px;
+  padding-left: 20px;
+  color: rgb(25, 52, 51);
+  font-size: 20px;
+}
+
+ul {
+  display: flex;
+}
+li a {
+  margin-right: 30px;
+  color: rgb(25, 52, 51);
+  font-size: 1.7rem;
+}
