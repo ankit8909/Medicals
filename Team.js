@@ -69,6 +69,10 @@ function Team() {
       </div>
       <About />
       hiii ky hal hai
+      i read 
+      i play 
+      you read
+      you play. 
     </>
   );
 }
