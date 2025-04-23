@@ -67,9 +67,8 @@ function Team() {
           </div>
         </div>
       </div>
-
-      <About/>
-      hiii
+      <About />
+      hiii ky hal hai
     </>
   );
 }
