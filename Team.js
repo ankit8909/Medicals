@@ -69,6 +69,7 @@ function Team() {
       </div>
 
       <About/>
+      hiii
     </>
   );
 }
