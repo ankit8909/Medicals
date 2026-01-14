@@ -36,7 +36,7 @@ function Slider() {
           <br />
           <p>
             It’s an opportunity to feature the area of your expertise.
-            Streamline the services clearly and concisely
+            Streamline the services clearly and concisely relly
           </p>
         </div>
 
